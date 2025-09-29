@@ -5,6 +5,8 @@ description: This resource provides information regarding various methods, their
 file: /courses/hst-947-medical-artificial-intelligence-spring-2005/a5c1e4ffa2830dd0f2c0491b11004d1d_searchataglance.pdf
 file_size: 34752
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

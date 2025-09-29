@@ -2,6 +2,8 @@
 content_type: page
 description: This lecture notes section contains a complete set of lecture notes for
   the course. These serve as the primary reading material for this course.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection

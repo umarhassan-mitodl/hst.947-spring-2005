@@ -2,6 +2,8 @@
 content_type: page
 description: The readings section lists the suggested readings for the course as per
   the lecture topics.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -323,7 +325,7 @@ Patil, R. S., P. Szolovits, and W. B. Schwartz. "Causal understanding of patient
 
 ———. "Information acquisition in diagnosis." In _Proceedings of the National Conference on Artificial Intelligence_. American Association for Artificial Intelligence, 1982, pp. 345-348.
 
-Patil, R. S. "{{% resource_link "7113bdb7-90fb-40e7-8e59-473cb224e098" "Causal Representation of Patient Illness for Electrolyte and Acid-Base Diagnosis" %}}." MIT Ph.D. Thesis, 1981.
+Patil, R. S. "[Causal Representation of Patient Illness for Electrolyte and Acid-Base Diagnosis](http://www.medg.lcs.mit.edu/people/psz/PatilThesis81/)." MIT Ph.D. Thesis, 1981.
 
 
 {{< tdclose >}}
@@ -867,7 +869,7 @@ Kawamoto, K., et al. "Improving clinical practice using clinical decision suppor
 
 Ammenwerth, E., and N. de Keizer. "An Inventory of Evaluation Studies of Information Technology in Health Care." _Methods Inf Med_ 44 (2005): 44-56.
 
-Nielsen, J. "{{% resource_link "8c85bee5-f0eb-4778-b086-8dc38142b131" "Medical Usability: How to Kill Patients Through Bad Design" %}}."
+Nielsen, J. "[Medical Usability: How to Kill Patients Through Bad Design](http://www.useit.com/alertbox/20050411.html)."
 
 
 {{< tdclose >}}

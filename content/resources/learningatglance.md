@@ -5,6 +5,8 @@ description: This resource provides information regarding various algorithms, th
 file: /courses/hst-947-medical-artificial-intelligence-spring-2005/68f31dd84178fd5c43783c87fe6cc7d0_learningatglance.pdf
 file_size: 34988
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

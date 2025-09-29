@@ -2,6 +2,8 @@
 content_type: page
 description: The related resources section provides information about the interactive
   lectures and on-line exercises.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
@@ -19,7 +21,7 @@ The materials, including interactive access to the online tutor, are being made 
 
 MIT iCampus, sponsored by Microsoft® Research, is aimed at achieving broad, substantial, and sustainable impact on higher education through information technology. iCampus incubates innovations for labs, classrooms, and campus communities at MIT and promotes their dissemination around the world.
 
-*   Go to the {{% resource_link "b6b22535-3ae9-4618-9b2c-6697ea697b46" "online tutor for 6.034" %}}
-*   Learn more about the {{% resource_link "a8a823ea-a989-4618-9853-592661485fb5" "EECS XTutor system" %}}
-*   Learn more about the {{% resource_link "4c30d11f-9f58-4ce1-afc2-4fa67181a57d" "iCampus Outreach Program" %}}
-*   Learn more about {{% resource_link "7680b95f-08f7-48a6-a7cb-b90e0f26c12a" "MIT iCampus" %}}
+*   Go to the [online tutor for 6.034](http://icampus.mit.edu/?s=online+tutor+for+6.034)
+*   Learn more about the [EECS XTutor system](http://icampus.mit.edu/xTutor/)
+*   Learn more about the [iCampus Outreach Program](http://icampus.mit.edu/outreach/)
+*   Learn more about [MIT iCampus](http://icampus.mit.edu/)

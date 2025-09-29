@@ -6,6 +6,8 @@ description: This resource contains lecture slides and accompanying transcripts 
 file: /courses/hst-947-medical-artificial-intelligence-spring-2005/be702753a1f6d27c559b806ea4595e6d_ch10_logic2a.pdf
 file_size: 2194547
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -33,6 +33,7 @@
     "website": "hst-947-medical-artificial-intelligence-spring-2005"
   },
   "course_title": "Medical Artificial Intelligence",
+  "hide_download": true,
   "course_description": "This course provides an intensive introduction to artificial intelligence and its applications to problems of medical diagnosis, therapy selection, and monitoring and learning from databases. It meets with lectures and recitations of 6.034 Artificial Intelligence, whose material is supplemented by additional medical-specific readings in a weekly discussion session. Students are responsible for completing all homework assignments in 6.034 and for additional problems and/or papers.\n",
   "department_numbers": [
     "HST"
@@ -43,6 +44,7 @@
     "content": "e1d475ff-9509-86d1-74e2-67143ca44f6c",
     "website": "hst-947-medical-artificial-intelligence-spring-2005"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Notes"
   ],

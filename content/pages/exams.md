@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: The exams section lists 2 quizzes along with their review and solutions.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Exams
 ocw_type: CourseSection
